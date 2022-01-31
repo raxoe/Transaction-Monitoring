@@ -1,9 +1,0 @@
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Logger\bin\Release\netcoreapp3.1\TransactionMonitoring.Logger.deps.json
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Logger\bin\Release\netcoreapp3.1\TransactionMonitoring.Logger.dll
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Logger\bin\Release\netcoreapp3.1\TransactionMonitoring.Logger.pdb
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Logger\obj\Release\netcoreapp3.1\TransactionMonitoring.Logger.csprojAssemblyReference.cache
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Logger\obj\Release\netcoreapp3.1\TransactionMonitoring.Logger.AssemblyInfoInputs.cache
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Logger\obj\Release\netcoreapp3.1\TransactionMonitoring.Logger.AssemblyInfo.cs
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Logger\obj\Release\netcoreapp3.1\TransactionMonitoring.Logger.csproj.CoreCompileInputs.cache
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Logger\obj\Release\netcoreapp3.1\TransactionMonitoring.Logger.dll
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Logger\obj\Release\netcoreapp3.1\TransactionMonitoring.Logger.pdb

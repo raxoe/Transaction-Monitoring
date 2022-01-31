@@ -1,9 +1,0 @@
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.EntityModels\bin\Release\netcoreapp3.1\TransactionMonitoring.EntityModels.deps.json
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.EntityModels\bin\Release\netcoreapp3.1\TransactionMonitoring.EntityModels.dll
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.EntityModels\bin\Release\netcoreapp3.1\TransactionMonitoring.EntityModels.pdb
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.EntityModels\obj\Release\netcoreapp3.1\TransactionMonitoring.EntityModels.csprojAssemblyReference.cache
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.EntityModels\obj\Release\netcoreapp3.1\TransactionMonitoring.EntityModels.AssemblyInfoInputs.cache
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.EntityModels\obj\Release\netcoreapp3.1\TransactionMonitoring.EntityModels.AssemblyInfo.cs
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.EntityModels\obj\Release\netcoreapp3.1\TransactionMonitoring.EntityModels.csproj.CoreCompileInputs.cache
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.EntityModels\obj\Release\netcoreapp3.1\TransactionMonitoring.EntityModels.dll
-D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.EntityModels\obj\Release\netcoreapp3.1\TransactionMonitoring.EntityModels.pdb

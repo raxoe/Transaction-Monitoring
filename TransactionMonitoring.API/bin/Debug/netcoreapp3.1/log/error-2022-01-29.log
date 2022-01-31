@@ -1,2 +1,0 @@
-2022-01-29 22:26:42.0828|ERROR|TransactionRepository|Invalid object name 'Transactions'.
-2022-01-29 22:39:30.0783|ERROR|TransactionRepository|String '1/29/2022 10:39:27 PM' was not recognized as a valid DateTime.

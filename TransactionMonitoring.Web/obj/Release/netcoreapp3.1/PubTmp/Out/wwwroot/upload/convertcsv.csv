@@ -1,3 +1,0 @@
-TransactionDate,PaymentDetails/Amount,PaymentDetails/CurrencyCode,Status,_id
-2019-01-23T13:45:10,200.00,USD,Done,Inv00001
-2019-01-24T16:09:15,10000.00,EUR,Rejected,Inv00002
