@@ -1,0 +1,14 @@
+2022-01-31 00:45:56.5877|ERROR|TransactionRepository|An exception was thrown while attempting to evaluate a LINQ query parameter expression. To show additional information call EnableSensitiveDataLogging() when overriding DbContext.OnConfiguring.
+2022-01-31 00:46:34.2426|ERROR|TransactionRepository|An exception was thrown while attempting to evaluate a LINQ query parameter expression. To show additional information call EnableSensitiveDataLogging() when overriding DbContext.OnConfiguring.
+2022-01-31 01:02:04.1458|ERROR|Application stopped bacause of exception|Endpoint Routing does not support 'IApplicationBuilder.UseMvc(...)'. To use 'IApplicationBuilder.UseMvc' set 'MvcOptions.EnableEndpointRouting = false' inside 'ConfigureServices(...).
+2022-01-31 01:05:31.8434|ERROR|TransactionRepository|An exception was thrown while attempting to evaluate a LINQ query parameter expression. To show additional information call EnableSensitiveDataLogging() when overriding DbContext.OnConfiguring.
+2022-01-31 01:05:50.9679|ERROR|TransactionRepository|An exception was thrown while attempting to evaluate a LINQ query parameter expression. To show additional information call EnableSensitiveDataLogging() when overriding DbContext.OnConfiguring.
+2022-01-31 01:09:20.9294|ERROR|TransactionRepository|An exception was thrown while attempting to evaluate a LINQ query parameter expression. To show additional information call EnableSensitiveDataLogging() when overriding DbContext.OnConfiguring.
+2022-01-31 01:09:21.7626|ERROR|TransactionRepository|An exception was thrown while attempting to evaluate a LINQ query parameter expression. To show additional information call EnableSensitiveDataLogging() when overriding DbContext.OnConfiguring.
+2022-01-31 01:10:18.1141|ERROR|TransactionRepository|An exception was thrown while attempting to evaluate a LINQ query parameter expression. To show additional information call EnableSensitiveDataLogging() when overriding DbContext.OnConfiguring.
+2022-01-31 01:37:02.9635|ERROR|TransactionRepository|Value cannot be null. (Parameter 's')
+2022-01-31 01:37:36.8857|ERROR|TransactionRepository|Value cannot be null. (Parameter 's')
+2022-01-31 01:38:10.1329|ERROR|TransactionRepository|Value cannot be null. (Parameter 's')
+2022-01-31 01:38:29.2811|ERROR|TransactionRepository|Value cannot be null. (Parameter 's')
+2022-01-31 01:39:38.3846|ERROR|TransactionRepository|Value cannot be null. (Parameter 's')
+2022-01-31 01:39:44.2159|ERROR|TransactionRepository|String '2021-08-26T09:42:00' was not recognized as a valid DateTime.

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TransactionMonitoring.Common\TransactionMonitoring.Common.csproj" />
+    <ProjectReference Include="..\TransactionMonitoring.CustomExceptions\TransactionMonitoring.CustomExceptions.csproj" />
+    <ProjectReference Include="..\TransactionMonitoring.EntityModels\TransactionMonitoring.EntityModels.csproj" />
+    <ProjectReference Include="..\TransactionMonitoring.Models\TransactionMonitoring.Models.csproj" />
+  </ItemGroup>
+
+</Project>

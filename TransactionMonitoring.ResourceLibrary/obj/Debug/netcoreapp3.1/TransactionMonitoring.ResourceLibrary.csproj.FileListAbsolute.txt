@@ -1,0 +1,8 @@
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.ResourceLibrary\obj\Debug\netcoreapp3.1\TransactionMonitoring.ResourceLibrary.AssemblyInfoInputs.cache
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.ResourceLibrary\obj\Debug\netcoreapp3.1\TransactionMonitoring.ResourceLibrary.AssemblyInfo.cs
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.ResourceLibrary\obj\Debug\netcoreapp3.1\TransactionMonitoring.ResourceLibrary.csproj.CoreCompileInputs.cache
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.ResourceLibrary\bin\Debug\netcoreapp3.1\TransactionMonitoring.ResourceLibrary.deps.json
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.ResourceLibrary\bin\Debug\netcoreapp3.1\TransactionMonitoring.ResourceLibrary.dll
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.ResourceLibrary\bin\Debug\netcoreapp3.1\TransactionMonitoring.ResourceLibrary.pdb
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.ResourceLibrary\obj\Debug\netcoreapp3.1\TransactionMonitoring.ResourceLibrary.dll
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.ResourceLibrary\obj\Debug\netcoreapp3.1\TransactionMonitoring.ResourceLibrary.pdb

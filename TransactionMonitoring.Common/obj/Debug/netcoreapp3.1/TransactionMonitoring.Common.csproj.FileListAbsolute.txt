@@ -1,0 +1,9 @@
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Common\bin\Debug\netcoreapp3.1\TransactionMonitoring.Common.deps.json
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Common\bin\Debug\netcoreapp3.1\TransactionMonitoring.Common.dll
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Common\bin\Debug\netcoreapp3.1\TransactionMonitoring.Common.pdb
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Common\obj\Debug\netcoreapp3.1\TransactionMonitoring.Common.AssemblyInfoInputs.cache
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Common\obj\Debug\netcoreapp3.1\TransactionMonitoring.Common.AssemblyInfo.cs
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Common\obj\Debug\netcoreapp3.1\TransactionMonitoring.Common.csproj.CoreCompileInputs.cache
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Common\obj\Debug\netcoreapp3.1\TransactionMonitoring.Common.dll
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Common\obj\Debug\netcoreapp3.1\TransactionMonitoring.Common.pdb
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.Common\obj\Debug\netcoreapp3.1\TransactionMonitoring.Common.csprojAssemblyReference.cache

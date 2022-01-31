@@ -1,0 +1,7 @@
+2022-01-30 12:06:31.8297|ERROR|TransactionController|The method or operation is not implemented.
+2022-01-30 12:07:02.6219|ERROR|TransactionController|The method or operation is not implemented.
+2022-01-30 19:35:08.7186|ERROR|TransactionRepository|An error occurred while updating the entries. See the inner exception for details.
+2022-01-30 19:36:51.4806|ERROR|TransactionRepository|An error occurred while updating the entries. See the inner exception for details.
+2022-01-30 23:06:31.9672|ERROR|TransactionRepository|An error occurred while updating the entries. See the inner exception for details.
+2022-01-30 23:08:29.8651|ERROR|TransactionRepository|An error occurred while updating the entries. See the inner exception for details.
+2022-01-30 23:10:31.4814|ERROR|TransactionRepository|An error occurred while updating the entries. See the inner exception for details.

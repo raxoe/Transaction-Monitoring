@@ -1,0 +1,598 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.API\\TransactionMonitoring.API.csproj": {}
+  },
+  "projects": {
+    "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.API\\TransactionMonitoring.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.API\\TransactionMonitoring.API.csproj",
+        "projectName": "TransactionMonitoring.API",
+        "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.API\\TransactionMonitoring.API.csproj",
+        "packagesPath": "C:\\Users\\Thura\\.nuget\\packages\\",
+        "outputPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.CustomExceptions\\TransactionMonitoring.CustomExceptions.csproj": {
+                "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.CustomExceptions\\TransactionMonitoring.CustomExceptions.csproj"
+              },
+              "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.DAL\\TransactionMonitoring.DAL.csproj": {
+                "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.DAL\\TransactionMonitoring.DAL.csproj"
+              },
+              "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.EntityModels\\TransactionMonitoring.EntityModels.csproj": {
+                "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.EntityModels\\TransactionMonitoring.EntityModels.csproj"
+              },
+              "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Logger\\TransactionMonitoring.Logger.csproj": {
+                "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Logger\\TransactionMonitoring.Logger.csproj"
+              },
+              "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Models\\TransactionMonitoring.Models.csproj": {
+                "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Models\\TransactionMonitoring.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Common\\TransactionMonitoring.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Common\\TransactionMonitoring.Common.csproj",
+        "projectName": "TransactionMonitoring.Common",
+        "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Common\\TransactionMonitoring.Common.csproj",
+        "packagesPath": "C:\\Users\\Thura\\.nuget\\packages\\",
+        "outputPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Converter\\TransactionMonitoring.Converter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Converter\\TransactionMonitoring.Converter.csproj",
+        "projectName": "TransactionMonitoring.Converter",
+        "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Converter\\TransactionMonitoring.Converter.csproj",
+        "packagesPath": "C:\\Users\\Thura\\.nuget\\packages\\",
+        "outputPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Converter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Common\\TransactionMonitoring.Common.csproj": {
+                "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Common\\TransactionMonitoring.Common.csproj"
+              },
+              "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.CustomExceptions\\TransactionMonitoring.CustomExceptions.csproj": {
+                "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.CustomExceptions\\TransactionMonitoring.CustomExceptions.csproj"
+              },
+              "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.EntityModels\\TransactionMonitoring.EntityModels.csproj": {
+                "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.EntityModels\\TransactionMonitoring.EntityModels.csproj"
+              },
+              "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Models\\TransactionMonitoring.Models.csproj": {
+                "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Models\\TransactionMonitoring.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.CustomExceptions\\TransactionMonitoring.CustomExceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.CustomExceptions\\TransactionMonitoring.CustomExceptions.csproj",
+        "projectName": "TransactionMonitoring.CustomExceptions",
+        "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.CustomExceptions\\TransactionMonitoring.CustomExceptions.csproj",
+        "packagesPath": "C:\\Users\\Thura\\.nuget\\packages\\",
+        "outputPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.CustomExceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.DAL.EntityFramework\\TransactionMonitoring.DAL.EntityFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.DAL.EntityFramework\\TransactionMonitoring.DAL.EntityFramework.csproj",
+        "projectName": "TransactionMonitoring.DAL.EntityFramework",
+        "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.DAL.EntityFramework\\TransactionMonitoring.DAL.EntityFramework.csproj",
+        "packagesPath": "C:\\Users\\Thura\\.nuget\\packages\\",
+        "outputPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.DAL.EntityFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.EntityModels\\TransactionMonitoring.EntityModels.csproj": {
+                "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.EntityModels\\TransactionMonitoring.EntityModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.DAL\\TransactionMonitoring.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.DAL\\TransactionMonitoring.DAL.csproj",
+        "projectName": "TransactionMonitoring.DAL",
+        "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.DAL\\TransactionMonitoring.DAL.csproj",
+        "packagesPath": "C:\\Users\\Thura\\.nuget\\packages\\",
+        "outputPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Converter\\TransactionMonitoring.Converter.csproj": {
+                "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Converter\\TransactionMonitoring.Converter.csproj"
+              },
+              "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.CustomExceptions\\TransactionMonitoring.CustomExceptions.csproj": {
+                "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.CustomExceptions\\TransactionMonitoring.CustomExceptions.csproj"
+              },
+              "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.DAL.EntityFramework\\TransactionMonitoring.DAL.EntityFramework.csproj": {
+                "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.DAL.EntityFramework\\TransactionMonitoring.DAL.EntityFramework.csproj"
+              },
+              "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.EntityModels\\TransactionMonitoring.EntityModels.csproj": {
+                "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.EntityModels\\TransactionMonitoring.EntityModels.csproj"
+              },
+              "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Logger\\TransactionMonitoring.Logger.csproj": {
+                "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Logger\\TransactionMonitoring.Logger.csproj"
+              },
+              "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Models\\TransactionMonitoring.Models.csproj": {
+                "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Models\\TransactionMonitoring.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.EntityModels\\TransactionMonitoring.EntityModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.EntityModels\\TransactionMonitoring.EntityModels.csproj",
+        "projectName": "TransactionMonitoring.EntityModels",
+        "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.EntityModels\\TransactionMonitoring.EntityModels.csproj",
+        "packagesPath": "C:\\Users\\Thura\\.nuget\\packages\\",
+        "outputPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.EntityModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Logger\\TransactionMonitoring.Logger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Logger\\TransactionMonitoring.Logger.csproj",
+        "projectName": "TransactionMonitoring.Logger",
+        "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Logger\\TransactionMonitoring.Logger.csproj",
+        "packagesPath": "C:\\Users\\Thura\\.nuget\\packages\\",
+        "outputPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Logger\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Models\\TransactionMonitoring.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Models\\TransactionMonitoring.Models.csproj",
+        "projectName": "TransactionMonitoring.Models",
+        "projectPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Models\\TransactionMonitoring.Models.csproj",
+        "packagesPath": "C:\\Users\\Thura\\.nuget\\packages\\",
+        "outputPath": "D:\\TestingSheet\\DotNetTesting\\InterView\\TransactionMonitoring\\TransactionMonitoring.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

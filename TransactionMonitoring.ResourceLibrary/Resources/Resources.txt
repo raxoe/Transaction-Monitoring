@@ -1,0 +1,4 @@
+InvalidInput=Invalid input provided.
+ServerError=There is an error. Please contact the administrator.
+DependecyNotFound=Related information is not valid.
+EntityNotFound=Record not found.

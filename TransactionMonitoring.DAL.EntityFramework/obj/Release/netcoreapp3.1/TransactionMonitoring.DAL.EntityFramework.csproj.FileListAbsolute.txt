@@ -1,0 +1,16 @@
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.DAL.EntityFramework\bin\Release\netcoreapp3.1\TransactionMonitoring.DAL.EntityFramework.dll.config
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.DAL.EntityFramework\bin\Release\netcoreapp3.1\TransactionMonitoring.DAL.EntityFramework.deps.json
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.DAL.EntityFramework\bin\Release\netcoreapp3.1\TransactionMonitoring.DAL.EntityFramework.runtimeconfig.json
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.DAL.EntityFramework\bin\Release\netcoreapp3.1\TransactionMonitoring.DAL.EntityFramework.runtimeconfig.dev.json
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.DAL.EntityFramework\bin\Release\netcoreapp3.1\TransactionMonitoring.DAL.EntityFramework.dll
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.DAL.EntityFramework\bin\Release\netcoreapp3.1\TransactionMonitoring.DAL.EntityFramework.pdb
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.DAL.EntityFramework\bin\Release\netcoreapp3.1\TransactionMonitoring.EntityModels.dll
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.DAL.EntityFramework\bin\Release\netcoreapp3.1\TransactionMonitoring.EntityModels.pdb
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.DAL.EntityFramework\obj\Release\netcoreapp3.1\TransactionMonitoring.DAL.EntityFramework.csprojAssemblyReference.cache
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.DAL.EntityFramework\obj\Release\netcoreapp3.1\TransactionMonitoring.DAL.EntityFramework.AssemblyInfoInputs.cache
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.DAL.EntityFramework\obj\Release\netcoreapp3.1\TransactionMonitoring.DAL.EntityFramework.AssemblyInfo.cs
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.DAL.EntityFramework\obj\Release\netcoreapp3.1\TransactionMonitoring.DAL.EntityFramework.csproj.CoreCompileInputs.cache
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.DAL.EntityFramework\obj\Release\netcoreapp3.1\TransactionMonitoring.DAL.EntityFramework.csproj.CopyComplete
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.DAL.EntityFramework\obj\Release\netcoreapp3.1\TransactionMonitoring.DAL.EntityFramework.dll
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.DAL.EntityFramework\obj\Release\netcoreapp3.1\TransactionMonitoring.DAL.EntityFramework.pdb
+D:\TestingSheet\DotNetTesting\InterView\TransactionMonitoring\TransactionMonitoring.DAL.EntityFramework\obj\Release\netcoreapp3.1\TransactionMonitoring.DAL.EntityFramework.genruntimeconfig.cache

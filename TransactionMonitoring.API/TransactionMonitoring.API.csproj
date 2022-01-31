@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>52debe79-7f8b-4be7-9ee1-7c3472f982d3</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="nlog.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="nlog.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TransactionMonitoring.CustomExceptions\TransactionMonitoring.CustomExceptions.csproj" />
+    <ProjectReference Include="..\TransactionMonitoring.DAL\TransactionMonitoring.DAL.csproj" />
+    <ProjectReference Include="..\TransactionMonitoring.EntityModels\TransactionMonitoring.EntityModels.csproj" />
+    <ProjectReference Include="..\TransactionMonitoring.Logger\TransactionMonitoring.Logger.csproj" />
+    <ProjectReference Include="..\TransactionMonitoring.Models\TransactionMonitoring.Models.csproj" />
+  </ItemGroup>
+
+
+</Project>

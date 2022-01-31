@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransactionMonitoring.Logger", "TransactionMonitoring.Logger\TransactionMonitoring.Logger.csproj", "{ED611F2B-8491-4F27-B826-BA8F5182CC80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransactionMonitoring.EntityModels", "TransactionMonitoring.EntityModels\TransactionMonitoring.EntityModels.csproj", "{121E7E16-A0FB-4A37-8D14-C22395446E39}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransactionMonitoring.Models", "TransactionMonitoring.Models\TransactionMonitoring.Models.csproj", "{FFD7F6C6-1366-41CF-B7BE-6549FAE77C6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransactionMonitoring.DAL.EntityFramework", "TransactionMonitoring.DAL.EntityFramework\TransactionMonitoring.DAL.EntityFramework.csproj", "{1AAC661D-C19C-4932-8381-71F8BEB70984}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransactionMonitoring.DAL", "TransactionMonitoring.DAL\TransactionMonitoring.DAL.csproj", "{3E50AD83-15ED-4D4B-8153-CD7D4E161CE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransactionMonitoring.CustomExceptions", "TransactionMonitoring.CustomExceptions\TransactionMonitoring.CustomExceptions.csproj", "{E7791B4C-8DF9-4347-B666-95FD82EF2906}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransactionMonitoring.Converter", "TransactionMonitoring.Converter\TransactionMonitoring.Converter.csproj", "{87EF7E98-AE84-4E65-AB6B-F6BFD082B6B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransactionMonitoring.API", "TransactionMonitoring.API\TransactionMonitoring.API.csproj", "{E8B131B3-A8CD-4095-9805-456B873C2C6B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransactionMonitoring.Common", "TransactionMonitoring.Common\TransactionMonitoring.Common.csproj", "{E250F8D2-EA40-4755-B810-FD2F768645CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionMonitoring.Web", "TransactionMonitoring.Web\TransactionMonitoring.Web.csproj", "{FF82FC40-2F5E-44BC-A637-C3AF5B7176E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED611F2B-8491-4F27-B826-BA8F5182CC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED611F2B-8491-4F27-B826-BA8F5182CC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED611F2B-8491-4F27-B826-BA8F5182CC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED611F2B-8491-4F27-B826-BA8F5182CC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{121E7E16-A0FB-4A37-8D14-C22395446E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121E7E16-A0FB-4A37-8D14-C22395446E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121E7E16-A0FB-4A37-8D14-C22395446E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121E7E16-A0FB-4A37-8D14-C22395446E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD7F6C6-1366-41CF-B7BE-6549FAE77C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD7F6C6-1366-41CF-B7BE-6549FAE77C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD7F6C6-1366-41CF-B7BE-6549FAE77C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD7F6C6-1366-41CF-B7BE-6549FAE77C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AAC661D-C19C-4932-8381-71F8BEB70984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AAC661D-C19C-4932-8381-71F8BEB70984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AAC661D-C19C-4932-8381-71F8BEB70984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AAC661D-C19C-4932-8381-71F8BEB70984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E50AD83-15ED-4D4B-8153-CD7D4E161CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E50AD83-15ED-4D4B-8153-CD7D4E161CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E50AD83-15ED-4D4B-8153-CD7D4E161CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E50AD83-15ED-4D4B-8153-CD7D4E161CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7791B4C-8DF9-4347-B666-95FD82EF2906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7791B4C-8DF9-4347-B666-95FD82EF2906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7791B4C-8DF9-4347-B666-95FD82EF2906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7791B4C-8DF9-4347-B666-95FD82EF2906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87EF7E98-AE84-4E65-AB6B-F6BFD082B6B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EF7E98-AE84-4E65-AB6B-F6BFD082B6B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EF7E98-AE84-4E65-AB6B-F6BFD082B6B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EF7E98-AE84-4E65-AB6B-F6BFD082B6B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8B131B3-A8CD-4095-9805-456B873C2C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8B131B3-A8CD-4095-9805-456B873C2C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8B131B3-A8CD-4095-9805-456B873C2C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8B131B3-A8CD-4095-9805-456B873C2C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E250F8D2-EA40-4755-B810-FD2F768645CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E250F8D2-EA40-4755-B810-FD2F768645CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E250F8D2-EA40-4755-B810-FD2F768645CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E250F8D2-EA40-4755-B810-FD2F768645CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF82FC40-2F5E-44BC-A637-C3AF5B7176E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF82FC40-2F5E-44BC-A637-C3AF5B7176E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF82FC40-2F5E-44BC-A637-C3AF5B7176E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF82FC40-2F5E-44BC-A637-C3AF5B7176E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE722EC1-C852-43D6-A3EE-EE6CBAE14AEE}
+	EndGlobalSection
+EndGlobal
