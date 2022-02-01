@@ -167,6 +167,11 @@ namespace TransactionMonitoring.Web.Controllers
                     var requestUrl = CreateRequestUri(string.Format(System.Globalization.CultureInfo.InvariantCulture,
                     endpoint));
                     var result = await PostAsync<TransactionCreateDTO>(requestUrl, transactionCreateDTO);
+                    if (result.resultCode != 0)
+                    {
+                        ViewBag.error = result.resultDescription;
+                        return View();
+                    }
 
                 }
 

@@ -24,16 +24,10 @@
                 <span class="text-danger">@ViewBag.error</span>
             </div>
         </form>
-        @*<form asp-controller="Home" asp-action="Index" method="post" enctype="multipart/form-data">
-            <input type="file" name="postedFile" />
-            <input type="submit" value="Import" />
-        </form>*@
+
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}

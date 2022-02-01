@@ -14,17 +14,17 @@
       "launchBrowser": true,
       "launchUrl": "api/v1/transaction",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Production",
-        "connectionString:cityInfoDBConnectionString": "Integrated Security=False;User Id=sa;Password=Evantek1;Persist Security Info=False;Initial Catalog=DbTransaction;Data Source=localhost;"
+        "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
     "TransactionMonitoring.API": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/v1/transaction",
+      //"launchUrl": "api/v1/transaction",
       "applicationUrl": "http://localhost:5000",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Production",
+        "connectionString:transactionDBConnectionString": "Integrated Security=False;User Id=sa;Password=Evantek1;Persist Security Info=False;Initial Catalog=DbTransaction;Data Source=localhost;"
       }
     }
   }

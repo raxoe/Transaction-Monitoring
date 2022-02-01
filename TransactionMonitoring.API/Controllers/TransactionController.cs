@@ -117,6 +117,12 @@ namespace TransactionMonitoring.API.Controllers
             try
             {
                 transactionCreateDTO = await _transactionRepository.AddTransactions(transactionCreateDTO);
+
+                if (transactionCreateDTO.resultCode != 0)
+                {
+                    //return BadRequest(transactionCreateDTO.resultDescription);
+                    return Ok(transactionCreateDTO);
+                }
             }
             catch (Exception ex)
             {

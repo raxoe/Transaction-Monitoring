@@ -42,14 +42,22 @@ namespace TransactionMonitoring.Web.Controllers
         /// <summary>
         /// Common method for making POST calls
         /// </summary>
-        protected async Task<Message<T>> PostAsync<T>(Uri requestUrl, T content)
+        protected async Task<T> PostAsync<T>(Uri requestUrl, T content)
         {
             addHeaders();
             var response = await _httpClient.PostAsync(requestUrl.ToString(), CreateHttpContent<T>(content));
             response.EnsureSuccessStatusCode();
             var data = await response.Content.ReadAsStringAsync();
-            return JsonConvert.DeserializeObject<Message<T>>(data);
+            return JsonConvert.DeserializeObject<T>(data);
         }
+        //protected async Task<Message<T>> PostAsync<T>(Uri requestUrl, T content)
+        //{
+        //    addHeaders();
+        //    var response = await _httpClient.PostAsync(requestUrl.ToString(), CreateHttpContent<T>(content));
+        //    response.EnsureSuccessStatusCode();
+        //    var data = await response.Content.ReadAsStringAsync();
+        //    return JsonConvert.DeserializeObject<Message<T>>(data);
+        //}
         protected async Task<Message<T1>> PostAsync<T1, T2>(Uri requestUrl, T2 content)
         {
             addHeaders();

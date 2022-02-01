@@ -14,6 +14,8 @@ using TransactionMonitoring.DAL.Interfaces;
 using TransactionMonitoring.DAL.Implementations;
 using TransactionMonitoring.DAL.EntityFramework;
 using TransactionMonitoring.Logger;
+using System.Reflection;
+using System.IO;
 
 namespace TransactionMonitoring.API
 {
@@ -33,7 +35,20 @@ namespace TransactionMonitoring.API
 
             services.AddScoped<ILoggerHelper, LoggerHelper>();
 
-            var connectionString = Configuration["connectionString:cityInfoDBConnectionString"];
+            services.AddSwaggerGen(options =>
+            {
+                options.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
+                {
+                    Title = "Transaction Mornitoring API",
+                    Description = "Transaction Mornitoring API",
+                    Version = "v1"
+                });
+                var fileName = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+                var filePath = Path.Combine(AppContext.BaseDirectory, fileName);
+                options.IncludeXmlComments(filePath);
+            });
+
+            var connectionString = Configuration["connectionString:transactionDBConnectionString"];
             services.AddDbContext<DbTransactionContext>(o =>
             {
                 o.UseSqlServer(connectionString);
@@ -54,10 +69,19 @@ namespace TransactionMonitoring.API
 
             //app.UseAuthorization();
 
+            app.UseSwagger();
+            app.UseSwaggerUI(options =>
+            {
+                options.SwaggerEndpoint("/swagger/v1/swagger.json", "Transaction Mornitoring API");
+                options.RoutePrefix = ""; ;
+                options.DefaultModelsExpandDepth(-1);
+            });
+
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
             });
+
         }
     }
 }
